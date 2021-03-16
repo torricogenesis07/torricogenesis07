@@ -2,7 +2,7 @@
 - 👀 I’m interested in development software
 - 🌱 I’m currently learning Java Spring Boot for Backend and Angular, React js for Frontend
 - 💞️ I’m looking to collaborate on software proyects such as web applications
-- 📫 How to reach me @torricogenesis07 
+- 📫 How to reach me torricogenesis07@gmail.com
 - Greetings  : ) 
 
 <!---
